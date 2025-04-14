@@ -23,7 +23,7 @@ I approach every project with curiosity, attention to detail, and a focus on imp
 
 **Languages:** Python, SQL, R  
 **Libraries:** Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn  
-**Tools:** Power BI, Google Apps Script, Git, Excel (Wall Street Prep Certified)  
+**Tools:** Power BI, Google Apps Script, Git, Excel  
 **Other:** Web scraping (Selenium), CRM systems  
 
 ---
